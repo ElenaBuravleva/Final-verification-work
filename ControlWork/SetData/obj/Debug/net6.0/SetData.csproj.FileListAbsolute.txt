@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Новая папка\FVW\ControlWork\SetData\bin\Debug\net6.0\SetData.exe
+C:\Users\user\Desktop\Новая папка\FVW\ControlWork\SetData\bin\Debug\net6.0\SetData.deps.json
+C:\Users\user\Desktop\Новая папка\FVW\ControlWork\SetData\bin\Debug\net6.0\SetData.runtimeconfig.json
+C:\Users\user\Desktop\Новая папка\FVW\ControlWork\SetData\bin\Debug\net6.0\SetData.dll
+C:\Users\user\Desktop\Новая папка\FVW\ControlWork\SetData\bin\Debug\net6.0\SetData.pdb
+C:\Users\user\Desktop\Новая папка\FVW\ControlWork\SetData\obj\Debug\net6.0\SetData.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Новая папка\FVW\ControlWork\SetData\obj\Debug\net6.0\SetData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Новая папка\FVW\ControlWork\SetData\obj\Debug\net6.0\SetData.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Новая папка\FVW\ControlWork\SetData\obj\Debug\net6.0\SetData.AssemblyInfo.cs
+C:\Users\user\Desktop\Новая папка\FVW\ControlWork\SetData\obj\Debug\net6.0\SetData.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Новая папка\FVW\ControlWork\SetData\obj\Debug\net6.0\SetData.dll
+C:\Users\user\Desktop\Новая папка\FVW\ControlWork\SetData\obj\Debug\net6.0\refint\SetData.dll
+C:\Users\user\Desktop\Новая папка\FVW\ControlWork\SetData\obj\Debug\net6.0\SetData.pdb
+C:\Users\user\Desktop\Новая папка\FVW\ControlWork\SetData\obj\Debug\net6.0\SetData.genruntimeconfig.cache
+C:\Users\user\Desktop\Новая папка\FVW\ControlWork\SetData\obj\Debug\net6.0\ref\SetData.dll
